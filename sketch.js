@@ -9,5 +9,5 @@ function draw() {
   //circle
   stroke(255,255,127) // an RGB color for the circle's border
   fill(255,255,127,150); // an RGB color for the inside of the circle (the last number refers to transparency (min. 0, max. 255))
-  ellipse(width/2,height/2,20,20); // center of canvas, 20px dia
+  ellipse(50/2,100/2,20,20); // center of canvas, 20px dia
 }
